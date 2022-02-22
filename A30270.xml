@@ -1,0 +1,277 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A call to sinners such as are under sentence of death and such as are under any prospect of it from the long-suffering and gracious, but most righteous God / by His servant, Daniel Burgess.</title>
+            <author>Burgess, Daniel, 1645-1713.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A30270</idno>
+            <idno type="STC">Wing B5695</idno>
+            <idno type="STC">ESTC R23828</idno>
+            <idno type="EEBO-CITATION">07915334</idno>
+            <idno type="OCLC">ocm 07915334</idno>
+            <idno type="VID">40382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A30270)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40382)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1199:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A call to sinners such as are under sentence of death and such as are under any prospect of it from the long-suffering and gracious, but most righteous God / by His servant, Daniel Burgess.</title>
+                  <author>Burgess, Daniel, 1645-1713.</author>
+               </titleStmt>
+               <extent>[3], 30 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst, and Robert Gibbs,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Repentance.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40382:1" rendition="simple:additions"/>
+            <pb facs="tcp:40382:1" rendition="simple:additions"/>
+            <p>A CALL TO SINNERS, SUCH As are under Sentence OF DEATH, AND SUCH As are under any Proſpect of it: FROM The Long-ſuffering and Gracious, but moſt Righteous GOD.</p>
+            <p>By his Servant <hi>Daniel Burgeſs,</hi> at the Pious Requeſt of an Excellent Perſon.</p>
+            <q>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f God peradventure will give them Repen<g ref="char:EOLhyphen"/>tance, <bibl>
+                  <hi>2 Tim. 2.25.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt</hi> at the <hi>Bible</hi> and <hi>Three Crowns,</hi> at the lower end of <hi>Cheapſide,</hi> and <hi>R<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>bert Gibbs</hi> at the <hi>Golden Ball</hi> in <hi>Chancery-Lane.</hi> 1689.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:40382:2" rendition="simple:additions"/>
+            <pb facs="tcp:40382:2" rendition="simple:additions"/>
+            <head>To my dear Children.</head>
+            <opener>
+               <salute>My Hopes and my Fears,</salute>
+            </opener>
+            <p>THE firſt <hi>Adam</hi>'s ſin came in<g ref="char:EOLhyphen"/>to You thro' my Loins. O may the <hi>ſecond Adam</hi>'s grace come into you, thro' my means. <hi>My God and the God of my Father's</hi> grant it! To Him have I Dedicated you: And for Him would I Educate you.</p>
+            <p>I am Called unto much work for Others: It's little that I can do diſtinct<g ref="char:EOLhyphen"/>ly for You. Be it your Care to make <hi>Yours,</hi> what is done for many Others. Thus publickly I command you to read
+<pb facs="tcp:40382:3"/>this Call, as wrote ſingly for your ſelves. 'Tis poſsible ſome other Pa<g ref="char:EOLhyphen"/>rents may from ſo mean an example, Charge their Children. And this my Paper may ſpeak unto you, when I am gone from you.</p>
+            <p>You know they are many, who think my Days on Earth will be few. And that You muſt Die Young, or Live Or<g ref="char:EOLhyphen"/>phans. However that be order'd by God, haſten ye to make ſure your Peace with Him. Up and be doing, <hi>O precious Souls, and dear as mine own!</hi>
+            </p>
+            <p>The God of my own Mercies, Com<g ref="char:EOLhyphen"/>forts and Hopes be with you! <hi>Amen.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:40382:3"/>
+            <head>A <hi>Call</hi> to SINNERS, UNDER Sentence of DEATH, and under any Proſpect of approaching <hi>Death.</hi>
+            </head>
+            <q>O Bleſſed God, that haſt called me to lay my Paper to the Grave, and to intreat the Dead to Riſe; to Argue with Rocks, and Perſwade very Mill-ſtones to be Saints! O take the Work into thine own hand; half a word of thine will make every Reader a Sincere Convert and Sound Believer! Lord, if thou wilt, thou canſt make this Call (like the Trump of the Archangel,) to raiſe Millions of Dead Souls out of their Graves! <hi>Amen, Amen,</hi> for <hi>Jeſus</hi> ſake, <hi>Amen.</hi>
+            </q>
+            <p>Miſerable, O miſerable, but not yet Help<g ref="char:EOLhyphen"/>leſs Sinner,</p>
+            <p>THE <hi>Luſts</hi> thou haſt ſerved all thy former days, cannot now give thee one pleaſant Thought in theſe thy laſt days. The <hi>World</hi> thou haſt Idolized, cannot ſave thee from, or in, thy ap<g ref="char:EOLhyphen"/>proaching
+<pb n="2" facs="tcp:40382:4"/>Death. The <hi>Devil</hi> whom thou haſt Imitated and Obeyed, longs to be ſent to fetch thee to Hell. The <hi>God</hi> whom thou haſt not ſought unto for thy Peace with Him, is reſolved to wait but a very little longer for thy ſeeking unto Him. Yet ſo Kind is his holy <hi>Nature,</hi> ſo Compaſſionate is his holy <hi>Jeſus,</hi> ſo long-ſuffering is his holy <hi>Spirit,</hi> that (by my hand). He gives thee once more the Offer of his <hi>Pardon, Grace</hi> and <hi>Glory.</hi>
+            </p>
+            <p>He commands me to try, if any or all of theſe <hi>ten Couſiderations;</hi> will awaken thy Soul.</p>
+            <p>C. 1. <hi>The very laſt Week and Day of thy Life is given thee to prepare for Eternity, as well as all thy former ones.</hi> I, and the miſpending of theſe, will be a greater ſin than the miſpending of all thy former Weeks and Days hath been. It will be a kind of ſinning over all former ſins again, and adding unto the ſame. Who can ſay thy Day of Grace is over? And who can doubt but our <hi>laſt ſins</hi> be ſtill incompara<g ref="char:EOLhyphen"/>bly our worſt ſins?</p>
+            <p>C. 2. <hi>The very minute it ſelf, wherein Thou beginneſt thy true Converſion, God doth
+<pb n="3" facs="tcp:40382:4"/>begin thy true Salvation.</hi> Thou art under the Sentence of Condemnation not onely by the Law, but by the Goſpel. When thou doſt begin to Convert, read <hi>Luk.</hi> 15.20. <hi>And he aroſe and came to his father. But when he was yet a great way off, his fa<g ref="char:EOLhyphen"/>ther ſaw him, and had compaſſion, and ran, and fell on his neck, and kiſſed him.</hi>
+            </p>
+            <p>C. 3. <hi>The very Call that in this Paper God ſendeth unto thee, is a probable argument that God hath ſaving Grace in ſtore for thee.</hi> Methinks, God hath ſaid to me: <q>Go preach to the poor condemned Male<g ref="char:EOLhyphen"/>factors, for I have ſome people among them; and <hi>Hell</hi> ſhall not have all that die on the <hi>Gallows.</hi>
+               </q>
+            </p>
+            <p>C. 4. <hi>The very Book of God which directs me to all I put thee upon, is full of Proofs that thou mayſt be ſaved, however wicked thou haſt been, if even now thou doſt not Deny or Delay Gods merciful Call ſent thee.</hi> The Heaven is not ſo full of Stars, as Old and New Teſtament of Proofs hereof. In the Old Teſtament, <hi>Manaſſeh</hi> is a famous Inſtance of ſaving Grace to Sinners moſt notorious: The Thief dying on the Croſs, is another, recorded in the New Teſta<g ref="char:EOLhyphen"/>ment.
+<pb n="4" facs="tcp:40382:5"/>[One of 97 years old, was con<g ref="char:EOLhyphen"/>verted by <hi>John Rogers.</hi> And <hi>Richard Rogers</hi> uſed to ſay of <hi>John,</hi> 
+               <q>I will never deſpair of any man for <hi>John Rogers</hi>'s ſake:</q> ſo wicked a wretch <hi>John</hi> had bin.]</p>
+            <p>C. 5. <hi>The very Nature, Decrees, and Words of God make it certain, that <g ref="char:V">Ʋ</g>nbelief diſhonours God more than all other Sins, and Faith more honours him than all other Duties.</hi> St. <hi>Auſtin</hi> ſays, <hi>Judas</hi> ſinn'd worſe by his unbelieving ſorrow for his Sin, than by all his ſins that he ſorrowed for. And ſuch another <hi>Phoenix</hi> ſaith, That right <hi>Faith</hi> honoureth God more, than an uni<g ref="char:EOLhyphen"/>form intire <hi>Obedience</hi> to the whole Law in Innocency could do.</p>
+            <p>C. 6. <hi>The very Pardon and Salvation of thy periſhing Soul, is a Work God has more Delight in, than he has in all the Works of the whole Creation.</hi> Seek, Sinner, ſeek: ſeek, and fear not that God will deny un<g ref="char:EOLhyphen"/>to thee, the thing he delighteth to give unto all that do duly ſeek.</p>
+            <p>C. 7. <hi>The very Hope that in his Goſpel-way God will ſave thee, and Confidence that through Chriſt he can do it without any loſs of
+<pb n="5" facs="tcp:40382:5"/>his own glory, is no ſmall Honour unto God;</hi> I, and 'tis that without which, thou canſt never rightly Believe on Jeſus Chriſt, and therefore never Do any thing pleaſing un<g ref="char:EOLhyphen"/>to God.</p>
+            <p>C. 8. <hi>The very Soul of thine, which is certainly and extremely corrupted and curſed, is not worſe than many of the Souls which are now in Heaven, once were.</hi> Gods <hi>Son</hi> hath Redeemed, and his <hi>Spirit</hi> hath ſanctified as bad as Thou art. Why not Thee too?</p>
+            <p>C. 9. <hi>The very Change of thine that I write for; change of Covenant, of Spirit, of Nature, of Converſation, of Company; it can no ſooner be made, but Heaven will ring with Joy for it.</hi> I. and Hell gnaſh for en<g ref="char:EOLhyphen"/>vy at it. <hi>Father, Son,</hi> and <hi>Spirit, An<g ref="char:EOLhyphen"/>gels, Saints</hi> above, and all Saints below that hear of it, will be right glad.</p>
+            <p>C. 10. <hi>The very State that thou art now in, is not ſo bad as that thou ſhalt preſently paſs into, is good; if now thou accepteſt Chriſt offered to Thee. No, nor ſhall the very Eternity of the Damn'd be ſo bitter, as he Eternity of thy bleſſed Soul and Body be ſweet.</hi> Sinner, ſinner, lay this to thy
+<pb n="6" facs="tcp:40382:6"/>heart: thy State is Helliſh; bad as a Creatures ſin can-make it. But, <hi>Believe on the Lord Jeſus Chriſt,</hi> and in the ſame moment it ſhall be Heavenly; even good as a God-Man's Obedience can deſerve to have it made. And know thou, tho' all we can ſay of Hell, is but a flea-bite in compariſon of what thou wilt feel it to be if thou come therein; yet for all that, There's more Joy in Heaven than Tor<g ref="char:EOLhyphen"/>ment in Hell.</p>
+            <p>Go thou then, and do all that is enjoy<g ref="char:EOLhyphen"/>ned for <hi>Conviction,</hi> for <hi>Compunction,</hi> for <hi>
+                  <g ref="char:V">Ʋ</g>nion</hi> unto Jeſus Chriſt, and to God by Him. <hi>Pray,</hi> and beg Prayers. <hi>Hear,</hi> and <hi>Read</hi> Directions, and follow them. Loſe no time, not a moment. Convin<g ref="char:EOLhyphen"/>ced ſufficiently thou art not, till thou art able ſincerely to ſay theſe <hi>twelve particu<g ref="char:EOLhyphen"/>lars.</hi>
+            </p>
+            <p>P. 1. <hi>There is a Law and Covenant of per<g ref="char:EOLhyphen"/>fect Obedience, which I was under, ever ſince I was a Child of Adam.</hi> As ſoon as I was a Man, I was bound perſonally, perfect<g ref="char:EOLhyphen"/>ly, and perpetually to Obey and Love the Father, Son and Spirit. (I, and as ſoon as my Soul and Body came together, I was a Man in the Language of the Scrip<g ref="char:EOLhyphen"/>ture.)</p>
+            <pb n="7" facs="tcp:40382:6"/>
+            <p>P. 2. <hi>That Law of Perfect Obedience, that Covenant of works is broke by my firſt Pa<g ref="char:EOLhyphen"/>rent; and that Breach is imputed unto me, and the curſed Quality of it is inherent in me even from the womb.</hi> It has alſo bin break<g ref="char:EOLhyphen"/>ing continually by my vile <hi>Perſon,</hi> in all my Thoughts, Words and Deeds, through<g ref="char:EOLhyphen"/>out all my days.</p>
+            <p>P. 3. <hi>For that double Breach, I am un<g ref="char:EOLhyphen"/>der God's wrath, the Laws Curſe, liable to all miſeries, to Death, to Hell.</hi> I am bound over, as the Devils to the Judg<g ref="char:EOLhyphen"/>ment of the great day: And as with them ſo with me, God is angry all the day long.</p>
+            <p>P. 4. <hi>Yet can I not in the leaſt find fault with the Law, or blame the Lord and Law<g ref="char:EOLhyphen"/>giver.</hi> Tho' I am undone, he has done me no wrong. He doth but right; and natural neceſſary right, for naturally he hateth Sin, as I hate Hell. Nay, and the equity and the honour of his Government require that ſuch Sinners as I am, receive ſuch ſentence as I am under.</p>
+            <p>P. 5. <hi>My offended God is alſo my abſo<g ref="char:EOLhyphen"/>lute Soveraign; and not at all a Debtor unto
+<pb n="8" facs="tcp:40382:7"/>me, that I can commence no action againſt him, nor charge him with any Injuſtice, if he let me periſh under his damnatory ſentence, and deny me Salvation.</hi>
+            </p>
+            <p>P. 6. No, <hi>nor can I excuſe my ſelf from being my own ſelf-deſtroyer, by laying the blame of my ſin upon any Creature.</hi> They but Tempt, they Force not. All my formerly uſed ſhifts, Cavils and Contra<g ref="char:EOLhyphen"/>dictions, I have done with for very ſhame. My Mouth is ſtopped, and I am Dumb before God.</p>
+            <p>P. 7. <hi>Yet I hear and I believe a doctrine of Grace and Salvation, even for ſuch ſinners as I am.</hi> A Salvation <hi>purpoſed</hi> by God. A Salvation <hi>purchaſed</hi> by Jeſus Chriſt. A ſalvation <hi>atteſted and publiſh'd</hi> by the Holy Ghoſt. A ſalvation, for ſinners of all ranks and degrees. A ſalvation through a New <hi>Covenant</hi> and New <hi>Birth.</hi>
+            </p>
+            <p>P. 8. <hi>This Salvation, I perceive, God never meant, nor made any man's, but in the way of Repentance, Faith, New obedience.</hi> The way of Children's ſalvation is extra<g ref="char:EOLhyphen"/>ordinary, I ſpeak of grown Perſons.</p>
+            <pb n="9" facs="tcp:40382:7"/>
+            <p>P. 9. <hi>My ſelf I find utterly unable, to Repent, to Believe, and to obey the Goſpel.</hi> I, to will or deſire aright any good. Tho I muſt periſh if I do not: Yet with<g ref="char:EOLhyphen"/>out the Holy Spirit of <hi>Liberty, Life</hi> and <hi>Power</hi> put into me, I cannot Repent, Believe and Obey.</p>
+            <p>P. 10. <hi>God, who was not at firſt bound to Create me, is now as little bound to New-Create me;</hi> by putting his Holy <hi>Spirit</hi> in<g ref="char:EOLhyphen"/>to me, and by working in me, the <hi>Habits</hi> of Repentance, Faith and Obedience; and by <hi>Exciting</hi> the ſame habits unto Act and Exerciſe. If he doth freely New-Create me, he is Gracious: if not, he is Righteous.</p>
+            <p>P. 11. <hi>Nevertheleſs, God in the Goſpel Licenſeth, yea Invites, and Commands</hi> (in general) <hi>all ſinners to Repent, Believe, and Obey, i. e.</hi> to uſe all the means of theſe, by God appointed, and of which we are capacitated. And I conclude it my duty and intereſt to uſe the ſaid means.</p>
+            <p>P. 12. Laſtly, <hi>I take for granted, that 'tis my Duty and intereſt, to wait unto my very laſt gaſp what the Lord will ſay unto me,
+<pb n="10" facs="tcp:40382:8"/>and do with me.</hi> And this will I do if God enable.</p>
+            <p>Stop, Sinner, ſtop here; and over again with theſe twelve Particulars very ſeriouſly! And now let me tell thee, vain is thy <hi>Conviction</hi> of all, without that <hi>Compunction,</hi> or being prick'd through the Heart, which we place in three things; <hi>Fear, Grief, Separation from Sin:</hi> Go labour therefore to get able to ſay as follows:</p>
+            <p>P. 1. <hi>I fear the Spiritual and Eternal Judgments of God, that heretofore I fear'd but little, if at all.</hi> Hitherto I fear'd but only Poverty, Reproach, Sickneſs, <hi>&amp;c.</hi> now I fear a dark Mind, an hard Heart, and a Wrath to come.</p>
+            <p>P. 2. <hi>I grieve for all I have been and done againſt God, and Chriſt, and the Holy Spirit:</hi> I grieve more for this, than I do for ought beſide; more than ought beſide is worthy to be grieved for.</p>
+            <p>P. 3. <hi>I ſeparate and turn me from every ſin, to the beſt of my Skill and Power.</hi> Tho I cannot ſay, all Sin in my will is dead; I dare ſay, all my Will to ſin is dead; I
+<pb n="11" facs="tcp:40382:8"/>and of all the good gifts of God, I ſhould now chuſe his CHRIST and his H. SPI<g ref="char:EOLhyphen"/>RIT.</p>
+            <p>This indeed is ſomewhat, ſinner. Yet is one thing, (and the greateſt,) lacking. For ought that yet appears, 'tis lacking <hi>Doſt thou turn from every ſin to the beſt of thy skill and power?</hi> Thou doeſt well to do thy all, tho' it be next to nothing, that as yet thou canſt do. <hi>Is all thy will to ſin dead?</hi> This is a good hearing: tho' it be to be feared, 'tis a very improper death that it hath died. Trees are ſaid to be dead, when Life is gone out of the root of them: and they are ſaid to be dead, when Winter-weather hath but driven their life unto their root. And hath hindred nothing but their <hi>Growing</hi> and <hi>Fruit-bear<g ref="char:EOLhyphen"/>ing:</hi> nor them neither, but until the Spring-ſeaſon. Now is thy will to ſin any otherwiſe dead, than the Trees in thy Garden be dead in Winter? Or is this Death, thinkeſt thou, a true or a ſuffi<g ref="char:EOLhyphen"/>cient? <hi>Thou now chuſeſt of all God's gifts both CHRIST and his H. SPIRIT.</hi> Wel<g ref="char:EOLhyphen"/>come news this is. But all is not Gold that gliſters: and it ſhould be enquired whether it be a good choice thou makeſt of theſe ſo good gifts. A choice of <hi>meer
+<pb n="12" facs="tcp:40382:9"/>Compulſion,</hi> thou doſt not thy ſelf believe a good one. Such a choice rebelliouſly-diſpoſed ſubjects may make of a King, whom they loath and wiſh under ground: ſuch a choice ill Women may make of men for their Husbands, while they hate their tempers and their Perſons. A choice of <hi>inward free Diſpoſition</hi> is the on<g ref="char:EOLhyphen"/>ly one that truly praiſeth an Object cho<g ref="char:EOLhyphen"/>ſen; and that can commend the ſoul that makes the choice. Speak man, of which ſort is thy choice? What is thy conſide<g ref="char:EOLhyphen"/>rate Judgment, and thy Free Diſpoſition, how ſtandeſt thou affected toward theſe divine Perſons, and their holy Nature? Their ſaving <hi>Benefits,</hi> I queſtion not thy deſire of. And ſay, if thou canſt, is it any thing but <hi>Compulſion</hi> by fear of being damn'd without them that cauſeth thy choice. Sinner, I would have thee know: 'Tis from Chriſt working in thee by his Spirit, that thou turneſt from ſin ſo as thou doſt: That thy Will to ſin is dead, even ſo much as a Tree in Win<g ref="char:EOLhyphen"/>ter: That thou chuſeſt Chriſt and his ſpirit tho' but for their Benefits and but on Compulſion. Without di<g ref="char:EOLhyphen"/>vine Drawing thou hadſt never come ſo far it ſelf. But wo be to thee that ever
+<pb n="13" facs="tcp:40382:9"/>thou waſt born, if thou art not drawn and doſt not come farther. If thou doſt not come into real and gracious <hi>Marriage-union</hi> unto the Lord Jeſus Chriſt. O go Labour, Pray, and Wait to be enabled to ſay the <hi>four particulars</hi> that follow: as ever thou wouldſt get able to ſay, I am paſſed from death to Life.</p>
+            <p>P. 1. <hi>I now ſee the Neceſſity of <g ref="char:V">Ʋ</g>nion to Chriſt, and unto God by Chriſt.</hi> God and Man were at firſt United cloſely, tho' not inſeparably. Sin undid us by Diſuniting us. By deſtroying the Relation and Kin we had unto God: and of Children mak<g ref="char:EOLhyphen"/>ing us Aliens and Strangers. Religion is nothing at all leſs than Re-Union unto God. A return unto our firſt Kin and Relation unto Him. Such Kin as that of Father and Child: ſuch Relation as that of Friend and Friend. Now here<g ref="char:EOLhyphen"/>unto no return can be made, but by Union firſt made unto Jeſus Chriſt, <hi>Joh.</hi> 1.12. Such an Union to him, as that which is betwixt Husband and Wife: betwixt Head and Members: be<g ref="char:EOLhyphen"/>wixt Root and Branches: betwixt Foun<g ref="char:EOLhyphen"/>dation and Stones built on it! Theſe ſimilitudes the Holy Scripture uſeth:
+<pb n="14" facs="tcp:40382:10"/>and he that takes them for inſignificant cyphers, blaſphemeth.</p>
+            <p>P. 2. <hi>I now ſee the Nature of this ſo ne<g ref="char:EOLhyphen"/>ceſſary <g ref="char:V">Ʋ</g>nion unto Jeſus Chriſt.</hi> 'Tis the foreſaid Relation and Kin, by mutual <hi>Conſent</hi> and <hi>Covenant</hi> made. By three<g ref="char:EOLhyphen"/>fold Conſent. <hi>God</hi> is willing that his Son Chriſt as Mediator ſhould become ſo nearly related unto us. <hi>Chriſt</hi>'s will is always one and the ſame with his Fa<g ref="char:EOLhyphen"/>thers; and He is declared moſt willing. <hi>We,</hi> ſinful Fugitives and Aliens, are never willing, till infinite Grace by al<g ref="char:EOLhyphen"/>mighty Power makes us willing. Nor ever are we took into the Relation we ſpeak of, till we are made ſo. And are brought to an hearty Conſent unto the Marriage-Covenant. Which conſent, is indeed ſaving Faith. Conſenting there<g ref="char:EOLhyphen"/>unto, is believing: and believing on, is marrying unto Chriſt Jeſus, as appears <hi>Joh.</hi> 1.12, &amp;c. And this great work be<g ref="char:EOLhyphen"/>ing done, we are inſtantly a-Kin unto our bleſſed Lord. Related as near, as a Wife is unto an Husband. I, and Re<g ref="char:EOLhyphen"/>lated unto God as a Wife is unto her Husband's Father. Chriſt MEDIA<g ref="char:EOLhyphen"/>TOR is our Husband, and God is Our
+<pb n="15" facs="tcp:40382:10"/>Father by the Law of grace. <hi>My Father and your Father,</hi> ſaith that gracious Hus<g ref="char:EOLhyphen"/>band, <hi>Joh.</hi> 20.17.</p>
+            <p>P. 3. <hi>I now ſee what that Covenant of Grace is, whereto our conſent given doth make the foreſaid <g ref="char:V">Ʋ</g>nion.</hi> It conſiſts, I ſee, in <hi>Promiſes</hi> and <hi>Demands.</hi> Promiſes of good things unto us, and Demands of duty from us. The Promiſed Mercies I compriſe in four: (1.) GRACE. Both Grace Juſtifying, and Abſolving from the guilt of ſin: and Grace Sanctifying, or Aboliſhing by degrees the Power of ſin, <hi>Heb.</hi> 8.10, 12. (2.) BREAD. I mean all the neceſſary good things, of this Life. Enough of them to bear our charges to Heaven, 1 <hi>Tim.</hi> 4.8. (3.) GLORY. That is, both Excellency and Eternity of all deſirable good in the next World. 2 <hi>Tim.</hi> 4.8. 1 <hi>Pet.</hi> 1.4. (4.) CHIL<g ref="char:EOLhyphen"/>DREN'S BLESSING. An entail of good things for our ſakes, [tho' not our merits,] upon our Children, <hi>Rom.</hi> 11.28. <hi>Exod.</hi> 20.6. <hi>Acts</hi> 2.39. The Duty de<g ref="char:EOLhyphen"/>manded is alſo conſiderable in four par<g ref="char:EOLhyphen"/>ticulars. (1) REPENTANCE. An Heart-renting for ſin, and from it. A Firſt one; neceſſary unto our acceptation
+<pb n="16" facs="tcp:40382:11"/>into a Juſtifyed ſtate; an After-one con<g ref="char:EOLhyphen"/>tinued; neceſſary unto our ſenſe of Juſti<g ref="char:EOLhyphen"/>fication, and unto our daily Pardons, <hi>Act.</hi> 2.38. <hi>Luk.</hi> 13.3. (2) FAITH. <hi>Aſſent</hi> unto the Goſpel Revelations, <hi>Conſent</hi> unto the Precepts, <hi>Reliance</hi> upon the promiſes, <hi>Act.</hi> 16.31. <hi>Mar.</hi> 16.16. (3.) NEW OBEDIENCE. Conformity of the whole man unto the whole Rule of the Goſpel in Natural, Civil and Reli<g ref="char:EOLhyphen"/>gious actions, 2 <hi>Theſ.</hi> 1.8. 1 <hi>Pet.</hi> 4.17. (4) PERSEVERANCE. Or ſtrict and preciſe adherence unto that confor<g ref="char:EOLhyphen"/>mity, in all times, places, companies and conditions unto Lifes end, <hi>Rev.</hi> 2.10. Our Holy Baptiſm, and the Lord's ſup<g ref="char:EOLhyphen"/>per, do both <hi>Encourage</hi> our belief of God's fulfilling the promiſes of this Cove<g ref="char:EOLhyphen"/>nant, and <hi>Engage</hi> us on our parts to ful<g ref="char:EOLhyphen"/>fil the Demands of it, in the ſtrength of Chriſt. [And they would, of all Ordi<g ref="char:EOLhyphen"/>nances, be the moſt helpful, if the <hi>Na<g ref="char:EOLhyphen"/>ture, Ends</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>ſes</hi> of them were duly Taught by Miniſters and Learn'd by Peo<g ref="char:EOLhyphen"/>ple.]</p>
+            <p>P. 4. <hi>I now feel my hearts free and full conſent to this ſaid Covenant of grace.</hi> Unto the Acceptation of it's pro<g ref="char:EOLhyphen"/>miſed
+<pb n="17" facs="tcp:40382:11"/>
+               <hi>Benefits,</hi> for my only Portion and Enjoyment: and unto the Acceptation of its demanded <hi>Duties,</hi> for my only Buſineſs and Employment in this world. Bleſſed be free grace, I do accept both. And my Soul that was ſo far from God, is made nigh. The <hi>Objections</hi> of my mind and <hi>oppoſitions</hi> of my will are rout<g ref="char:EOLhyphen"/>ed. Grace in Chriſt has conquer'd my Enmity againſt God, as Holy: and my, fear of Him, as my Enemy. His offered <hi>Son</hi> I have Accepted; his Perſon, with his Benefits. I have taken Him for my <hi>Husband, Teacher, Saviour, Ruler:</hi> As the only <hi>Mediator</hi> to Reconcile God unto me, and to Communicate grace to me from God. Now is Father Son and Spirit my <hi>enjoyed Portion,</hi> and my <hi>ſerved Lord</hi> again. I have entred into an Oath and a Curſe, and bound my ſelf at my ever<g ref="char:EOLhyphen"/>laſting peril, Him only to ſerve, Him only to enjoy. With engaged <hi>heart,</hi> with opened <hi>mouth,</hi> with a fix'd <hi>hand</hi> and <hi>ſeal</hi> I have obliged my ſelf to have no other <hi>God</hi> but Him; no <hi>Mediator,</hi> but his Son; no <hi>Ruler,</hi> but his Spirit; no <hi>Rule,</hi> but his Word. The Word of his ever Bleſſed Covenant, <hi>well ordered in all things and ſure: which is all my ſalvation and
+<pb n="18" facs="tcp:40382:12"/>all my deſire.</hi> Oh Reader, I have heard of a ſinner, who twice heard a Voice from Hea<g ref="char:EOLhyphen"/>ven as he thought it, ſaying, <hi>Make haſte, make haſte;</hi> and yet he (a prodigious Ad<g ref="char:EOLhyphen"/>der) died a Sinner. Be it far from thee to be ſo obſtinate.</p>
+            <p>Wilt thou tell me?</p>
+            <p>Obj. 1. <hi>That I miſtake thee, and that thou art no ſuch great Sinner, though it be thy lot to have been drawn away by ill Com<g ref="char:EOLhyphen"/>pany, and to have miſcarryed of late.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Alas, alas! if ſo blind and ſenſeleſs, what hope of thee? However, the Lord who is only able, ſhall be in<g ref="char:EOLhyphen"/>treated to make thee Underſtand, 1. <hi>Every ſinner is a great one,</hi> for no ſin is ſmall; the leaſt of ſins againſt God, de<g ref="char:EOLhyphen"/>ſerves Death eternal. 2. <hi>By Nature thou art a Child of Wrath, and Enemy of God.</hi> 3. <hi>All thy Life of <g ref="char:V">Ʋ</g>nregeneracy has been very ſinful, a dead and damning Life.</hi> 4. <hi>Thou art an</hi> Engliſh <hi>deſpiſer of Chriſt,</hi> and that is the worſt ſort in the World: For according to the degrees of ſpiritual Light ſuch are the degrees of obſtinate Rebel<g ref="char:EOLhyphen"/>lion againſt it.</p>
+            <pb n="19" facs="tcp:40382:12"/>
+            <p>Obj. 2. <hi>But thou haſt been Puniſhed, and art like to die too: Yea and haſt been trou<g ref="char:EOLhyphen"/>bled for thy Sins very much: and thou ho<g ref="char:EOLhyphen"/>peſt God has more Mercy, than after all this to damn thee to Hell.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Sinner, I pray God give thee thy ſight! Theſe things are true. 1. <hi>An everlaſting Hell it ſelf is not more than our Sins do deſerve;</hi> God is far from Unmer<g ref="char:EOLhyphen"/>ciful in damning Sinners ſo incorrigible. 2. <hi>The Tears and the Blood of a Creature, are no ſatisfaction for Sin:</hi> thy burning in Hell for the ſpace of a million of years, will not expiate the guilt of one vain Thought.</p>
+            <p>Obj. 3. <hi>I put my truſt in my God and Sa<g ref="char:EOLhyphen"/>viour: and I hope to be ſaved without the ado you make about Conviction, and Com<g ref="char:EOLhyphen"/>punction and <g ref="char:V">Ʋ</g>nion,</hi> ſome may ſay.</p>
+            <p>
+               <hi>Anſw.</hi> Deluded Soul! O that thou wouldſt conſider! 1. <hi>In all the book of God we are taught there's no Salvation, but in theſe ways of his Soveraign Wiſdom and Mercy.</hi> 2. <hi>By this it's plain, you know not God,</hi> nor what it is to Truſt in Him: but do only Preſume blaſphe<g ref="char:EOLhyphen"/>mouſly that He is ſuch an one as your ſelf,
+<pb n="20" facs="tcp:40382:13"/>and is neither Holy nor Juſt. 3. <hi>You wil believe in his Promiſes directly contrary to the condition required in 'em:</hi> and you will not believe his Threatnings againſt impeni<g ref="char:EOLhyphen"/>tent unreformed Sinners tho' ratified with his Oath.</p>
+            <p>Obj. 4. <hi>Why,</hi> ſays another, <hi>what pro<g ref="char:EOLhyphen"/>fit can you aſſure me of, if I ſhould, to my utmoſt, endeavour all that you adviſe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. And <hi>what if I could not Aſſure thee of any Profit?</hi> Wouldſt thou do no<g ref="char:EOLhyphen"/>thing upon very Probability? If 'twere but Probable that the King would grant a Petition for thy Life, wouldſt refuſe any poſſible labour to get one preſented. The whole World acts upon Probabili<g ref="char:EOLhyphen"/>ties. 2. But well; <hi>I can Aſſure thee of benefit no leſs than Eternal.</hi> For ſuppoſe the worſt, that thy endeavours prevail not unto Saving Converſion; yet will they prevail to a leſſening of thy Tor<g ref="char:EOLhyphen"/>ments in Hell for ever. Every degree of contempt greatens them; every de<g ref="char:EOLhyphen"/>gree of endeavour leſſens them. On the other hand; if unto thy utmoſt thou en<g ref="char:EOLhyphen"/>deavour, there's no juſt reaſon for the frightful concluſion that 'twill be Un<g ref="char:EOLhyphen"/>effectual unto Salvation. And if it be
+<pb n="21" facs="tcp:40382:13"/>not, thy certain Profit is too great for Angel's Tongues to expreſs. A compre<g ref="char:EOLhyphen"/>henſive fore-ſight of it, would work won<g ref="char:EOLhyphen"/>ders in thee. Enquire, if thou know not, what things are theſe ten? 1. <hi>Juſtifica<g ref="char:EOLhyphen"/>tion.</hi> 2. <hi>Adoption.</hi> 3. <hi>Sanctification of the Holy Spirit.</hi> 4. <hi>Acceptation of all Duties with God.</hi> 5. <hi>Title unto all the Promiſes of the glorious Goſpel.</hi> 6. <hi>Inſeparable and honourable <g ref="char:V">Ʋ</g>nion to God.</hi> 7. <hi>Peace and Joy in Conſcience.</hi> 8. <hi>Victory over ſinful Love of Life and Fear of Death.</hi> 9. <hi>Glo<g ref="char:EOLhyphen"/>rious Reſurrection of thy Body.</hi> 10. <hi>Bold<g ref="char:EOLhyphen"/>neſs in the day of Judgment, and Admiſſion into heavenly Glory.</hi> If I were ſure I ſhould never get, I wou'd Live and Die in the purſuit of theſe. Up, Sinner, up, and be Doing, and know this: — If but one man now i'the World were to be Saved, I wou'd Try to be the Man: and if but one were to be Damn'd, I wou'd Tremble and carefully endeavour to make ſure that I ſhould not be He. O that theſe ſix Memorandums were nail<g ref="char:EOLhyphen"/>ed on thy Memory: (they have done others good, why not thee?) M. 1. <hi>'Tis God in Chriſt, only, that can ſave thee.</hi> 2. <hi>He invites thee to Salvation, even yet.</hi> 3. <hi>
+                  <g ref="char:V">Ʋ</g>pon gracious terms, He Promiſes, He
+<pb n="22" facs="tcp:40382:14"/>will Save thee.</hi> 4. <hi>He commands thee by all his Authority to accept it on his Terms.</hi> 5. <hi>He will Rejoice over thee with Singing, if thou doſt accept it.</hi> 6. And Oh the Love! <hi>He will Weep over thee if</hi> (after all) <hi>thou wilt Deſtroy thy ſelf unperſwadably.</hi> Sinner, Sinner, I can tell thee of one that heard a Voice, <hi>No Mercy, no Mer<g ref="char:EOLhyphen"/>cy,</hi> and yet was perſwaded to Endeavour, and did Convert, and did obtain Mer<g ref="char:EOLhyphen"/>cy. Remember it: Deſpair is full as bad as Preſumption; and divine Mercy is not a jot leſs than Juſtice.</p>
+            <p>Obj. 5. <hi>I cannot ſay I do not Repent and Believe, and that ſincerely: but if I do, 'tis with a ſadly weak Repentance and Faith: and ſuch as I am aſhamed of, and cannot believe the holy Judge of all the Earth will accept.</hi>
+            </p>
+            <p>Anſw. <hi>Say it be ſo: and ſay that 'tis but the loweſt place in Heaven that thou ſhalt be ſet in:</hi> Is any Seat there Uneaſie? O man, know and Joy in it. 'Tis Truth of Grace that is thy Life. <hi>The look of the weakeſt eye unto the brazen Serpent, did heal as truly as the look of the ſtrongeſt.</hi> Upon the very firſt ſincere Acceptation
+<pb n="23" facs="tcp:40382:14"/>of Father, Son and Spirit to be thine thro' the bleſſed Mediator, and Reſigna<g ref="char:EOLhyphen"/>tion of thy ſelf to be theirs thro' the ſame only Propitiation, 'tis ſure thy <hi>Mit<g ref="char:EOLhyphen"/>timus to Hell</hi> is ſtopt and ſuperſeded, thy <hi>Paſs to Heaven</hi> is granted. He will de<g ref="char:EOLhyphen"/>liver thy Soul from going down into the Pit, and thy Life ſhall ſee the Light, <hi>Job</hi> 33.28. <hi>Benhadad</hi> eſcaped by caſting himſelf on the Mercy of the King of <hi>Iſrael:</hi> It ſhall never repent thee, if in his holy appointed way thou ca<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t thy ſelf on the King of Heaven's Mercy. <hi>Hea<g ref="char:EOLhyphen"/>ven cannot ſhut, nor Hellopen, unto a Soul ſincerely weary of all the Sin it hath, and ſick of deſire for all the grace it wants.</hi> I ſhould think thee in Hells mouth, If I heard thee uttering boaſts of having all. Grace; or content, as having enough. They that have moſt, do all cry, that 'tis next to none that they have. And the higher they get in holy Qualifications, the lower they fall in their Apprehenſions of themſelves. He that giveth Grace to the Humble, maketh them yet more Humble by all the Grace He gives them I would rather be the worſt Humble man than the beſt Proud one in the World; and ſpecially, the ſpiritually
+<pb n="24" facs="tcp:40382:15"/>Proud. Well, in a word: Beg the Ho<g ref="char:EOLhyphen"/>ly Spirit to keep thee from both ex<g ref="char:EOLhyphen"/>treams; from <hi>Dreaming of ſafety</hi> while building on the Sand, and from <hi>Deſpair<g ref="char:EOLhyphen"/>ing of Mercy</hi> when thou buildeſt on the Rock Chriſt.</p>
+            <p>Now, O every one of you needy Souls that I addreſs unto, may you know the things of your Peace in the ſhort ſpan of your time that remains. If this little <hi>Goſpel-Net</hi> catch but one <hi>Fiſh</hi> among you, I win more than a World. But I have ſent up Prayers to Him that can make it take take thouſands of you, that He would ſo do. And take all the Glory of it unto Him<g ref="char:EOLhyphen"/>ſelf, when He has done it. Sirs, I ſhall be certified that He hath granted my Cryes, if ever I ſhall hear that you grant me but theſe <hi>Requeſts,</hi> which conclude my Call unto you. They are for your obſer<g ref="char:EOLhyphen"/>vance of theſe rules in your endeavouring, if indeed you will endeavour, to Recon<g ref="char:EOLhyphen"/>cile you to God e're ye Dye.</p>
+            <p>R. 1. <hi>That you enter on it with ſuch So<g ref="char:EOLhyphen"/>lemnity as ſuch a Work well deſerves.</hi> Get as many Godly Miniſters and Friends as you can, to come joyn with you in Faſt<g ref="char:EOLhyphen"/>ing and Prayer for divine Bleſſing on your
+<pb n="25" facs="tcp:40382:15"/>great enterprize: Teſtifie to your <hi>God,</hi> to your <hi>Conſcience,</hi> and to all godly <hi>conſci<g ref="char:EOLhyphen"/>entious Folk</hi> about you, that you have high<g ref="char:EOLhyphen"/>er Thoughts of God, than to dare go about making your Peace with his Majeſty, as tho' 'twere a buſineſs, that either did not Require or would not Requite, the great<g ref="char:EOLhyphen"/>eſt and humbleſt Care and Pains.</p>
+            <p>R. 2. <hi>That you ſtick to it cloſely and con<g ref="char:EOLhyphen"/>ſtantly, as that Work will require you to do.</hi> I, and would have required, had you be<g ref="char:EOLhyphen"/>gun ever ſo ſoon, and were you to live ever ſo long. Sirs, is not your Worldly buſineſs yet over? is not your Peace with God now, your one and only buſi<g ref="char:EOLhyphen"/>ſineſs? All of the four and twenty hours that ye do not ſleep out, methinks you might now ſpend very freely in the work I have propoſed. Formerly, 'twas <hi>all</hi> of it ſpent in running away farther from Gods peace: why, now ſhould <hi>but a part</hi> of it be laid out in making after it? The time was when you begrudged God an half hour's diverſion from the World or ſinful Pleaſure. You now reproach God fearfully, if ye begrudge not the World the leaſt <hi>Unneceſſary</hi> diverſion from Gods proper ſervice.</p>
+            <pb n="26" facs="tcp:40382:16"/>
+            <p>R. 3. <hi>That you Obſerve and Lament in all you do, that Leproſie of Selfiſhneſs, which of all things is hardeſt to be cured.</hi> To love your ſelf is no Sin, but Duty; but Love of Self above God, what is that, think you? God is ſo juſt, that were there any thing elſe ſo good as He, he would love it as well as himſelf; were there <hi>ought</hi> bet<g ref="char:EOLhyphen"/>ter, he would love it better, than him<g ref="char:EOLhyphen"/>ſelf. Now alas, alas! God is truly all-good and all-lovely: Nothing is lovely but as of and for him; yet how do you find it? what care you for God but for your own ends? could you not ſin on as <hi>jocundly</hi> as ever, and omit all Duty as profanely, but for fear of your own Sufferings in Hell, and for deſire of your own Pleaſures in Heaven? Is it not for Self-ends that you liſt to know God, or be at Peace with him? Yes, it is, and to turn the Scales, and get to love your ſelves but for God's honours ſake, to deſire Pardon of Sin, Peace of Conſcience, Deliverance from Hell, <hi>principally</hi> that ye may thereby Love and Honour God; is this <hi>Eaſie?</hi> Or is it, think you, <hi>
+                  <g ref="char:V">Ʋ</g>nneceſſary?</hi> Sirs, mark it well; I count not that you have receiv'd your ſight, or any ſenſe of your Duty and Buſineſs, 'till you are crying to this pur<g ref="char:EOLhyphen"/>poſe,
+<pb n="27" facs="tcp:40382:16"/>
+               <hi>viz.</hi> 
+               <q>O bleſſed God, thanks to thine own Grace for it, I have begun to ſeek my Reconciliation unto thee; and I do not, nor dare I but hold on ſeeking: But, wo is me, a curſed Selfiſhneſs (I ſee) has, and ſtill does act me. Oh! I have not, nor do I yet carry it towards Thee, as a God, and above all, yea Univerſal good. I would I could Love thee ſo as to be aſhamed of my ſin in time paſt, and to be afraid of it for the fu<g ref="char:EOLhyphen"/>ture, principally becauſe of Love to thy All-lovelineſs. Oh that I could ſay, If there were no Heaven to reward, nor Hell to Puniſh me, yet ſo do I love God and hate ſin, that of all things I would deſire to be Reconciled to Him and Live his Praiſes. But Oh, tho' I diſcern 'tis as neceſſary to my Happineſs that I Love thee, as that I am Loved of thee, and that if I love not thee, I love not any good at all, for thou art one and All; I, and that I do not love thee rightly, 'till I do love thee above all, and Love nothing but thee and for thy ſake: Yet is there a <hi>Milſtone</hi> about my neck that preſſeth me down into deep Selfiſhneſs, and hinders my ſeeking thee without giving thee great<g ref="char:EOLhyphen"/>eſt
+<pb n="28" facs="tcp:40382:17"/>Provocations for ever to abhor me.</q> Sirs, your <hi>real</hi> wearineſs of this <hi>ſaid Mil<g ref="char:EOLhyphen"/>ſtone</hi> would be a token for good.</p>
+            <p>R. 4. <hi>That you by no means argue from the Multitude or Greatneſs, or Long Con<g ref="char:EOLhyphen"/>tinuance of your Sins, that there is no Help for you in God.</hi> True, Sin is an evil, in one ſenſe Infinite: 'Tis againſt an Infi<g ref="char:EOLhyphen"/>nite God. <hi>One</hi> ſin did deſerve and pro<g ref="char:EOLhyphen"/>cure the whole World's Condemnation. One ſin takes more honour from God, than all the Obedience of meer Crea<g ref="char:EOLhyphen"/>tures can repair. And what then; ſin, for all this, is not Infinite, ſo as Gods Mercy, and Chriſts Merits, and the Ho<g ref="char:EOLhyphen"/>ly Ghoſts mighty Power are infinite. No, ſuch are theſe, that if I my ſelf had ſinned all the ſins of the faln Angels, and of faln Mankind both, Chriſt's Blood could ſatisfie for all: the Holy Ghoſt could ſanctifie and cleanſe me from all: The Mercy of God could forgive me all. I and obſerve it: <hi>Heaven has more than a few, of them who were on earth more ſinful than ordinary, for a ſadly long time.</hi> Again I tell you: Unleſs your pre<g ref="char:EOLhyphen"/>ſent and future Unbelief hold you down under them, <hi>no ſins</hi> can be your ruine.
+<pb n="29" facs="tcp:40382:17"/>'Tis not <hi>falling into</hi> the water that is deepeſt, drowns a man; but 'tis <hi>keeping down under</hi> the water. Sirs, Vomit up now all your heretofore ſweet poyſons, make all your ſins to become your ſhames and ſorrow, let no one of them live in your favour, and (fear it not) you ſhall not die in their guilt. If we our ſelves ſtood bound to pay unto God the ſatiſ<g ref="char:EOLhyphen"/>faction of <hi>any one</hi> Sin, there were no hope of our Salvation: but that is undertook by Chriſt who ſuffered death and the pains of Hell in our ſtead, whom if the chief of ſinners commit and ſubmit them<g ref="char:EOLhyphen"/>ſelves unto, there is as little fear of their Damnation.</p>
+            <p>R. 5. <hi>That you be ſure to be Orderly and <g ref="char:V">Ʋ</g>niverſal in this your great work.</hi> My meaning is: that you ſeek good things in their good Order; the firſt firſtly, and ſo onward: and that you ſeek all Gods pro<g ref="char:EOLhyphen"/>poſed good things, all and every of the Number. Do not as many do wildly; do not crave to have the <hi>Sacraments,</hi> before you competently underſtand the <hi>Command<g ref="char:EOLhyphen"/>ments:</hi> nor pretend to be keepers of the Holy Commandments, till you compe<g ref="char:EOLhyphen"/>tently underſtand the <hi>Bleſſed Pattern of
+<pb n="30" facs="tcp:40382:18"/>Prayer:</hi> nor dream ye a poſſibility of pro<g ref="char:EOLhyphen"/>fitably Receiving the Sacrament, or O<g ref="char:EOLhyphen"/>beying any Commandment, or making any Prayer, till you are competently ac<g ref="char:EOLhyphen"/>quainted with the <hi>Goſpel Creed.</hi> Do not conceit your ſelves capable of <hi>Comfort</hi> be<g ref="char:EOLhyphen"/>fore Holineſs, or of <hi>Holineſs</hi> before U<g ref="char:EOLhyphen"/>nion to Chriſt, or of <hi>ſaving <g ref="char:V">Ʋ</g>nion to Chriſt</hi> before Faith, or of <hi>Faith</hi> before Humili<g ref="char:EOLhyphen"/>ation, or of <hi>Humiliation</hi> before Convicti<g ref="char:EOLhyphen"/>on. Seek all, and ſeek in Order! O ſeek 'em but as you believe that damned Souls in Hell wou'd ſeek 'em, if they had but your <hi>Capacity</hi> and your <hi>Call.</hi> The Lord grant when your Bodies drop into the Pit, your Souls may not fall into Eter<g ref="char:EOLhyphen"/>nal Flames. And that your <hi>Real</hi> Conver<g ref="char:EOLhyphen"/>ſion may be ſo <hi>ſenſible,</hi> as to be <hi>Comforta<g ref="char:EOLhyphen"/>ble</hi> to your ſelves; and ſo <hi>Viſible,</hi> as that it may be ſaid by all who ſee your end, <hi>Behold God hath granted unto theſe Priſoners</hi> [and theſe Dying Creatures,] <hi>Repentance unto Life.</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:40382:18"/>
+            <head>Books to be Sold by <hi>Tho. Parkhurſt,</hi> at the Bible and three Crowns in <hi>Cheapſide.</hi>
+            </head>
+            <p>THree Queſtions reſolved briefly and plainly; <hi>Viz.</hi>
+            </p>
+            <p n="1">1. What Conceptions ought we to have of the bleſſed God?</p>
+            <p n="2">2. What are thoſe Truths, whereof the Knowledge appeareth moſt indiſpen<g ref="char:EOLhyphen"/>ſibly neceſſary unto our Salvation; and (therefore) to be firſt and moſt Learnt by us?</p>
+            <p n="3">3. What is the Change wrought in a Man by God's H. Word and Spirit, before he can ſafely conclude himſelf paſs'd from Death to Life? Being the Summ of three Sermons.</p>
+            <p>The Chriſtians earneſt Expectation and Longing for the glorious Appearing of the great God and our Saviour Jeſus Chriſt. Set forth in a Diſcourſe occa<g ref="char:EOLhyphen"/>ſioned by the Deceaſe of that Excellent Chriſtian and Miniſter of Chriſt, Mr. <hi>Noah Webb,</hi> late of <hi>Sandhurſt</hi> in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Berks.</hi>
+            </p>
+            <p>The Chriſtian Temper: Or, the Quiet State of Mind that God's Servants labour for. Set forth in a Sermon at the Funeral of Mrs. <hi>
+                  <g ref="char:V">Ʋ</g>rſula Collins.</hi> All three by <hi>Daniel Burgeſs,</hi> Miniſter of the Goſpel.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
